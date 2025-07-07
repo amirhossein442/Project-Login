@@ -1,0 +1,16 @@
+
+
+.form-box.register{
+    position: absolute;
+    transform: translateX(360px);
+}
+.form-box.register{
+    width: 400px;
+    height: 440px;
+    padding: 40px;
+}
+
+.form-box.register h2{
+    text-align: center;
+}
+
